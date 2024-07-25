@@ -1,12 +1,12 @@
 {
-  "markdown": " MAR\\-10238137\\-1\\.v2 \\| CISA A A ( Lock ) or[\\#protect2024](/protect2024)  Search Menu Close[Faith\\-Based Community](/audiences/faith-based-community) [High\\-Risk Communities](/audiences/high-risk-communities)* Resources \\& Tools[Resources \\& Tools](/resources-tools) [All Resources \\& Tools](/resources-tools/all-resources-tools)* News \\& Events[News \\& Events](/news-events) [Cybersecurity Alerts \\& Advisories](/news-events/cybersecurity-advisories)[Benefits \\& Perks](/careers/benefits-perks)[Resume \\& Application Tips](/careers/resume-application-tips)[Students \\& Recent Graduates](/students-recent-graduates-employment-opportunities)[Divisions \\& Offices](/about/divisions-offices)[\\#protect2024](/protect2024) 2. [News \\& Events](/news-events)4. [Analysis Report](/news-events/cybersecurity-advisories?f%5B0%5D=advisory_type%3A65) Analysis ReportMAR\\-10238137\\-1\\.v2==================== Last Revised May 12, 2020 Alert Code AR20\\-133F### Revisions May 12, 2020: Initial Version This product is provided subject to this [Notification](/notification \"Follow link\")  and this [Privacy \\& Use](/privacy-policy \"Follow link\")  policy.-------------------------- [product survey](https://www.surveymonkey.com/r/CISA-cyber-survey?product=https://www.cisa.gov/news-events/analysis-reports/ar20-133f)  ; Related Advisories------------------ Feb 07, 2024 Analysis Report \\| AR24\\-038A### [MAR\\-10448362\\-1\\.v1 Volt Typhoon](/news-events/analysis-reports/ar24-038a) Nov 21, 2023 Analysis Report \\| AR23\\-325A### [MAR\\-10478915\\-1\\.v1 Citrix Bleed](/news-events/analysis-reports/ar23-325a) Sep 07, 2023 Analysis Report \\| AR23\\-250A### [MAR\\-10430311\\-1\\.v1 Multiple Nation\\-State Threat Actors Exploit CVE\\-2022\\-47966 and CVE\\-2022\\-42475](/news-events/analysis-reports/ar23-250a) Sep 07, 2023 Analysis Report \\| AR23\\-250A### [MAR\\-10454006\\.r5\\.v1 SUBMARINE, SKIPJACK, SEASPRAY, WHIRLPOOL, and SALTWATER Backdoors](/news-events/analysis-reports/ar23-250a-0)* [Resources \\& Tools](/resources-tools)* [News \\& Events](/news-events)[Cybersecurity \\& Infrastructure Security Agency](/ \"Go to the Cybersecurity & Infrastructure Security Agency homepage\")[1\\-844\\-Say\\-CISA](tel:1-844-Say-CISA) * [Equal Opportunity \\& Accessibility](/oedia \"Equal Opportunity & Accessibility\")",
+  "markdown": "\n\nRevisions\n\nMay 12, 2020: Initial Version\n",
   "cves": [
-    "CVE-2022-47966",
-    "CVE-2022-42475"
+    "CVE-2022-42475",
+    "CVE-2022-47966"
   ],
   "techniques": [],
   "advisory": "ar20-133f",
   "title": "MAR-10238137-1.v2 | CISA",
   "source": "analysis-reports",
-  "id": "5f83349c7b8c338de1e7209c654ca810e97fbeccc7343752216947845a40d21c"
+  "id": "c28a629364b3a170591d6934db8698fd959bae3e75b746d3785286dded48aad2"
 }
