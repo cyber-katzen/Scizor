@@ -3,9 +3,11 @@
   "cves": [
     "CVE-2019-18250"
   ],
-  "techniques": [],
+  "techniques": [
+    "T0001"
+  ],
   "advisory": "icsa-19-318-05",
   "title": "ABB Power Generation Information Manager (PGIM) and Plant Connect | CISA",
   "source": "ics-advisories",
-  "id": "4b45cae09a80edfbec499fc6670e0d4e0d0b2028b67e806f86811e1b3fd211e7"
+  "id": "ac7b0b83f7de1825385a6ab4bcdf875980ffa5676edc7709124bc3f0fd5a95e8"
 }

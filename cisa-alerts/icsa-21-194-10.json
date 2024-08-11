@@ -3,9 +3,11 @@
   "cves": [
     "CVE-2021-31895"
   ],
-  "techniques": [],
+  "techniques": [
+    "T2228"
+  ],
   "advisory": "icsa-21-194-10",
   "title": "Siemens RUGGEDCOM ROS | CISA",
   "source": "ics-advisories",
-  "id": "b5532c60f3b8322ae8dfbfde87ae14fccdda917717cba202be13de5a8c041052"
+  "id": "14adaf605347fdc2db727125f5e13024866530f634713fa9039cb1414ad81d73"
 }

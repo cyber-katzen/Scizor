@@ -5,10 +5,14 @@
     "CVE-2023-4966"
   ],
   "techniques": [
-    "T1556.006"
+    "T1563",
+    "T1556",
+    "T1556.006",
+    "T1539",
+    "T1082"
   ],
   "advisory": "aa23-325a",
   "title": "#StopRansomware: LockBit 3.0 Ransomware Affiliates Exploit CVE 2023-4966 Citrix Bleed Vulnerability | CISA",
   "source": "cybersecurity-advisories",
-  "id": "feb4259cda838db6fa14bb41b9fc1e093ece2b95376810dbb39df13fe1b12668"
+  "id": "a2e02e961bced0e2a23a2ff2c611494ac929119ad882553c70c79e1fff014cc3"
 }

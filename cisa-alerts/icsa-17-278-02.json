@@ -3,9 +3,11 @@
   "cves": [
     "CVE-2017-9944"
   ],
-  "techniques": [],
+  "techniques": [
+    "T1260"
+  ],
   "advisory": "icsa-17-278-02",
   "title": "Siemens 7KT PAC1200 Data Manager | CISA",
   "source": "ics-advisories",
-  "id": "6050c8acfa94b65243291f5394e806719a69d18ff8104f1dbcbf738000bd03e4"
+  "id": "142cdc778c613cff887ccdc7005895ad5d7801bee44ab1083168d6d1f140204f"
 }

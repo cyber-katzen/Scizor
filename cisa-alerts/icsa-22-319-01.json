@@ -3,9 +3,11 @@
   "cves": [
     "CVE-2022-2068"
   ],
-  "techniques": [],
+  "techniques": [
+    "T2000"
+  ],
   "advisory": "icsa-22-319-01",
   "title": "Mitsubishi Electric GT SoftGOT2000 | CISA",
   "source": "ics-advisories",
-  "id": "5ca169052e92b7b0b170f0b6e6bbf1bdbbea4326c5604f0ea921cd57876eb223"
+  "id": "93192bfd3c8d445418879e3637c2b023bf7dffbd46a6f37bb1e0808830946f35"
 }

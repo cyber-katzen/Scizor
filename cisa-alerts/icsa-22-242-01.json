@@ -1,17 +1,17 @@
 {
   "markdown": "\n1. EXECUTIVE SUMMARY\n\nCVSS v3 7.5\nATTENTION: Exploitable remotely/low attack complexity\nVendor: Hitachi Energy\nEquipment: FACTS Control Platform (FCP) Product\nVulnerability: Inconsistent Interpretation of HTTP Requests, Use After Free, Classic Buffer Overflow, Integer Underflow, Improper Certificate Validation, Observable Discrepancy.\n\n2. RISK EVALUATION\nSuccessful exploitation of these vulnerabilities may allow an attacker to eavesdrop on the traffic between network source and destination, gain unauthorized access to information or cause a denial-of service.\n3. TECHNICAL DETAILS\n3.1 AFFECTED PRODUCTS\nHitachi Energy reports multiple open-source software related vulnerabilities in the following FACTS Control Platform (FCP) product versions:\u00a0\n\nFCP 1.1.0 - 1.3.0\u00a0\nFCP 2.1.0 - 2.3.0\u00a0\nFCP 3.0.0 - 3.12.0\n\n3.2 VULNERABILITY OVERVIEW\n3.2.1\u00a0\u00a0 \u00a0RELIANCE ON UNCONTROLLED COMPONENT CWE-1357\nHitachi Energy is aware of public reports of multiple vulnerabilities in open-source software components (OpenSSL and Node.JS) used in the FACTS Control Platform (FCP) product. Versions are available to remediate the identified vulnerabilities.\nCVE-2020-1968, CVE-2020-8172, CVE-2020-8174, CVE-2020-8201, CVE-2020-8252, CVE-2020-8265, and CVE-2020-8287 have been assigned to these vulnerabilities in open-source components used by FCP. A CVSS v3 base score of 8.1 has been calculated for the worst case; the CVSS vector string is (AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H).\n3.3 BACKGROUND\n\nCRITICAL INFRASTRUCTURE SECTORS: Energy\nCOUNTRIES/AREAS DEPLOYED: Worldwide\nCOMPANY HEADQUARTERS LOCATION: Switzerland\n\n3.4 RESEARCHER\nHitachi Energy reported to CISA that FACTS Control Platform was affected by these previously discovered vulnerabilities in open-source software components.\n4. MITIGATIONS\nHitachi Energy has made the following updates available to remediate these vulnerabilities:\n\nFor FCP 1.1.0 - 1.3.0, FCP 2.1.0 - 2.3.0, FCP 3.0.0 - 3.12.0: Users should apply mitigations listed in this advisory and in the mitigation section of Hitachi Energy advisory 8DBD000104.\nA remediated version FCP 3.14.0 and 4.0.0 is planned. For update or upgrades, users should contact Hitachi Energy.\n\nHitachi Energy recommends the following security practices and firewall configurations to help protect a process control network from attacks that originate from outside the network:\u00a0\n\nPhysically protect process control systems from unauthorized direct access.\nSeparate process control systems from other networks using firewall system that has a minimal number of ports open.\nProcess control systems should not be used for internet surfing, instant messaging, or receiving emails.\nPortable computers and removable storage media should be carefully scanned for viruses connecting to a control system\n\nFor more information, see Hitachi Energy advisory 8DBD000104.\nCISA recommends users take defensive measures to minimize the risk of exploitation of these vulnerabilities.\nCISA reminds organizations to perform proper impact analysis and risk assessment prior to deploying defensive measures.\n\nCISA also provides a section for control systems security recommended practices on the ICS webpage on cisa.gov/ics\u00a0Several recommended practices are available for reading and download, including Improving Industrial Control Systems Cybersecurity with Defense-in-Depth Strategies.\nAdditional mitigation guidance and recommended practices are publicly available on the ICS webpage on cisa.gov/ics\u00a0in the Technical Information Paper, ICS-TIP-12-146-01B--Targeted Cyber Intrusion Detection and Mitigation Strategies.\n\nOrganizations observing any suspected malicious activity should follow their established internal procedures and report their findings to CISA for tracking and correlation against other incidents.\nNo known public exploits specifically target these vulnerabilities. These vulnerabilities are exploitable remotely. These vulnerabilities have a low attack complexity.\n",
   "cves": [
-    "CVE-2020-8252",
-    "CVE-2020-1968",
-    "CVE-2020-8172",
-    "CVE-2020-8265",
-    "CVE-2020-8201",
     "CVE-2020-8174",
-    "CVE-2020-8287"
+    "CVE-2020-8172",
+    "CVE-2020-8201",
+    "CVE-2020-1968",
+    "CVE-2020-8265",
+    "CVE-2020-8287",
+    "CVE-2020-8252"
   ],
   "techniques": [],
   "advisory": "icsa-22-242-01",
   "title": "Hitachi Energy FACTS Control Platform (FCP) Product | CISA",
   "source": "ics-advisories",
-  "id": "af38b9b06f2b5fba16a4458f1538045d0ad726384ba1046c58a1cee815507db8"
+  "id": "cb1c1b458f50faa33cffbef5ff67aa48077d01c92d481e071207cd4217625c82"
 }

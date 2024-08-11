@@ -3,15 +3,15 @@
   "cves": [
     "CVE-2023-44083",
     "CVE-2023-44087",
+    "CVE-2023-44082",
     "CVE-2023-44085",
     "CVE-2023-44084",
-    "CVE-2023-44086",
     "CVE-2023-44081",
-    "CVE-2023-44082"
+    "CVE-2023-44086"
   ],
   "techniques": [],
   "advisory": "icsa-23-285-10",
   "title": "Siemens Tecnomatix Plant Simulation | CISA",
   "source": "ics-advisories",
-  "id": "e3fe6e7515cda9630eba2ed735fc37b002e6865a7c2a7dee39dfe07065e84305"
+  "id": "a2c21fbc71e5b6b07dc1801f489be7a97206968b50a886778861104a95104b1c"
 }

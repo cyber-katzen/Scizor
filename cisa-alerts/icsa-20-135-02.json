@@ -3,9 +3,11 @@
   "cves": [
     "CVE-2020-12030"
   ],
-  "techniques": [],
+  "techniques": [
+    "T2000"
+  ],
   "advisory": "icsa-20-135-02",
   "title": "Emerson WirelessHART Gateway | CISA",
   "source": "ics-advisories",
-  "id": "98392fdfcdd768cb9c2eabec403b3618e349b4ffdc3bb68138b49784407945cf"
+  "id": "07382d9fd3884b5830b1e0d93561093437e4b59eeb15234dbfde003ed2331ee2"
 }

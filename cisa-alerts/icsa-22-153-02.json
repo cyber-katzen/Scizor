@@ -4,12 +4,12 @@
     "CVE-2022-1519",
     "CVE-2022-1518",
     "CVE-2022-1521",
-    "CVE-2022-1524",
-    "CVE-2022-1517"
+    "CVE-2022-1517",
+    "CVE-2022-1524"
   ],
   "techniques": [],
   "advisory": "icsa-22-153-02",
   "title": "Illumina Local Run Manager (Update A) | CISA",
   "source": "ics-advisories",
-  "id": "7a020a06fd57586a1aac1c5a787ea4803fefbb30ea724341673eec18f1f58ad1"
+  "id": "c73b437a10d4f173d526d83f6def756ac159ac543bc421c9d1651dc8e70f2b64"
 }

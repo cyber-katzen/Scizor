@@ -4,9 +4,11 @@
     "CVE-2018-18440",
     "CVE-2019-13103"
   ],
-  "techniques": [],
+  "techniques": [
+    "T2228"
+  ],
   "advisory": "icsa-19-344-03",
   "title": "Siemens RUGGEDCOM ROS (Update A) | CISA",
   "source": "ics-advisories",
-  "id": "20ed8f9a261e70a9b1a727865196a1133b5327ab601876bc9000e5f316fdfc3c"
+  "id": "2edc789f35b5ff5ef7caa4b86ad4a57f1335995357e52fbabefc1c4fcd24d200"
 }

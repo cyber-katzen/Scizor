@@ -3,9 +3,11 @@
   "cves": [
     "CVE-2023-0525"
   ],
-  "techniques": [],
+  "techniques": [
+    "T2000"
+  ],
   "advisory": "icsa-23-215-02",
   "title": "\u200bMitsubishi Electric GT and GOT Series Products | CISA",
   "source": "ics-advisories",
-  "id": "3216a93baa7c5df46ff30e6f1eb85c5e1846266191172c99eca5a6c21cc75698"
+  "id": "03caa8c48584d4b6c9cad39c098a0ff995015337ea638468861d492db05db8d9"
 }

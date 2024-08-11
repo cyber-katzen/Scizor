@@ -3,13 +3,13 @@
   "cves": [
     "CVE-2020-7495",
     "CVE-2020-7494",
-    "CVE-2020-7497",
     "CVE-2020-7493",
+    "CVE-2020-7497",
     "CVE-2020-7496"
   ],
   "techniques": [],
   "advisory": "icsa-20-142-02",
   "title": "Schneider Electric EcoStruxure Operator Terminal Expert | CISA",
   "source": "ics-advisories",
-  "id": "10e10b9c8a5c3eff29b15f8cf3a8d890a35539528b9f3b5782c7231e1b443f25"
+  "id": "6ef2c1972a517f255b9fd9d39ce0e28ffef6b75d975efd9c19d3a8043db55a55"
 }

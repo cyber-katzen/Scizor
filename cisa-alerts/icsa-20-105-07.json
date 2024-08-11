@@ -3,9 +3,11 @@
   "cves": [
     "CVE-2019-19301"
   ],
-  "techniques": [],
+  "techniques": [
+    "T2002"
+  ],
   "advisory": "icsa-20-105-07",
   "title": "Siemens SCALANCE and SIMATIC (Update H) | CISA",
   "source": "ics-advisories",
-  "id": "081956152970295807076683b352589d7778cb308d163b5ed0da30ba88284882"
+  "id": "225c46feb838c9f1a954b69e0b4340afd60058f794623cba3d726802fe51218c"
 }

@@ -1,17 +1,17 @@
 {
   "markdown": "\n1. EXECUTIVE SUMMARY\n\nCVSS v3 7.5\nATTENTION: Exploitable remotely/low attack complexity\nVendor: Hitachi Energy\nEquipment: Gateway Station (GWS) Product\nVulnerability: Inconsistent Interpretation of HTTP Requests, Use After Free, Classic Buffer Overflow, Integer Underflow, Improper Certificate Validation, Observable Discrepancy\n\n2. RISK EVALUATION\nSuccessful exploitation of this vulnerability could allow unauthorized users to eavesdrop on the traffic between network source and destination, gain unauthorized access to information, or cause a denial-of service condition.\n3. TECHNICAL DETAILS\n3.1 AFFECTED PRODUCTS\nHitachi Energy reported multiple open-source software related vulnerabilities in the following GWS Product versions:\u00a0\n\nGWS 2.0.0.0 and earlier\nGWS 2.1.0.0\nGWS 2.2.0.0\nGWS 2.3.0.0\nGWS 2.4.0.0\nGWS 3.0.0.0\nGWS 3.1.0.0.\n\n3.2 VULNERABILITY OVERVIEW\n3.2.1\u00a0\u00a0 \u00a0RELIANCE ON UNCONTROLLED COMPONENT CWE-1357\nHitachi Energy is aware of publicly disclosed reports of multiple vulnerabilities in open-source software components (OpenSSL and Node.JS) used in the Gateway Station (GWS) product. Versions are available to remediate the identified vulnerabilities.\nCVE-2020-1968, CVE-2020-8172, CVE-2020-8174, CVE-2020-8201, CVE-2020-8252, CVE-2020-8265, and CVE-2020-8287 have been assigned to these vulnerabilities in open source components used by GWS. A CVSS v3 base score of 8.1 has been calculated for the worst case; the CVSS vector string is (AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H).\n\u00a0\n3.3 BACKGROUND\n\nCRITICAL INFRASTRUCTURE SECTORS: Energy\nCOUNTRIES/AREAS DEPLOYED: Worldwide\nCOMPANY HEADQUARTERS LOCATION: Switzerland\n\n3.4 RESEARCHER\nHitachi Energy reported to CISA that GWS was affected by these previously discovered vulnerabilities in open-source software components.\n4. MITIGATIONS\nHitachi Energy made the following updates available to remediate these vulnerabilities:\n\nGWS 2.0.0.0 and earlier, GWS 2.1.0.0, GWS 2.2.0.0, GWS 2.3.0.0, GWS 2.4.0.0,GWS 3.0.0.0, GWS 3.1.0.0: Apply the mitigation factors as described in this advisory and in the mitigation section of Hitachi Energy advisory 8DBD000101.\nA remediated version of GWS 3.2.0.0 is planned. For updates or upgrades, contact Hitachi Energy.\n\nHitachi Energy recommends the following security practices and firewall configurations to help protect process control networks from outside attacks:\n\nPhysically protect process control systems from unauthorized direct access.\nSeparate process control systems from other networks using a firewall system with only the necessary ports open.\nProcess control systems should not be used for internet surfing, instant messaging, or receiving emails.\nPortable computers and removable storage media should be carefully scanned for viruses before connecting to a control system.\n\nFor more information, see Hitachi security advisory 8DBD000101\nCISA recommends users take defensive measures to minimize the risk of exploitation of these vulnerabilities.\nCISA reminds organizations to perform proper impact analysis and risk assessment prior to deploying defensive measures.\n\nCISA also provides a section for control systems security recommended practices on the ICS webpage on cisa.gov/ics\u00a0Several recommended practices are available for reading and download, including Improving Industrial Control Systems Cybersecurity with Defense-in-Depth Strategies.\nAdditional mitigation guidance and recommended practices are publicly available on the ICS webpage on cisa.gov/ics\u00a0in the Technical Information Paper, ICS-TIP-12-146-01B--Targeted Cyber Intrusion Detection and Mitigation Strategies.\n\nOrganizations observing any suspected malicious activity should follow their established internal procedures and report their findings to CISA for tracking and correlation against other incidents.\nNo known public exploits specifically target these vulnerabilities. These vulnerabilities are exploitable remotely. These vulnerabilities have a low attack complexity.\n",
   "cves": [
-    "CVE-2020-8252",
-    "CVE-2020-1968",
-    "CVE-2020-8172",
-    "CVE-2020-8265",
-    "CVE-2020-8201",
     "CVE-2020-8174",
-    "CVE-2020-8287"
+    "CVE-2020-8172",
+    "CVE-2020-8201",
+    "CVE-2020-1968",
+    "CVE-2020-8265",
+    "CVE-2020-8287",
+    "CVE-2020-8252"
   ],
   "techniques": [],
   "advisory": "icsa-22-242-02",
   "title": "Hitachi Energy Gateway Station (GWS) Product | CISA",
   "source": "ics-advisories",
-  "id": "3b26f6cab549a4a44628b785d4597821e191364c69799b676b2204729fad3621"
+  "id": "19f953432f4092fbf4e62d469b82c0ff87818aab97e5c0da34fb42e8682b9b0f"
 }

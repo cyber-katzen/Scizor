@@ -3,9 +3,11 @@
   "cves": [
     "CVE-2020-11896"
   ],
-  "techniques": [],
+  "techniques": [
+    "T2701"
+  ],
   "advisory": "icsa-24-046-03",
   "title": "Siemens SIMATIC RTLS Gateways | CISA",
   "source": "ics-advisories",
-  "id": "2fc3325a5f195753dc71fabd7a39b5421a8c629d19849a4f37a50eade3296971"
+  "id": "48ff3b28a750bf94c5173a8095a901ef05e2f73b18385715d49be91585571a28"
 }

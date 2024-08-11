@@ -1,20 +1,36 @@
 {
   "markdown": "\n\n\n\n\nActions to take today to mitigate cyber threats from Play ransomware:\n\n\n\n\nPrioritize remediating known exploited vulnerabilities.\nEnable multifactor authentication (MFA) for all services to the extent possible, particularly for webmail, VPN, and accounts that access critical systems.\nRegularly patch and update software and applications to their latest versions and conduct regular vulnerability assessments.\n\n\n",
   "cves": [
-    "CVE-2020-12812",
-    "CVE-2022-41082",
     "CVE-2018-13379",
-    "CVE-2022-41040"
+    "CVE-2020-12812",
+    "CVE-2022-41040",
+    "CVE-2022-41082"
   ],
   "techniques": [
-    "T1562.001",
-    "T1560.001",
+    "T1657",
+    "T1570",
+    "T1078",
+    "T1552",
+    "T1016",
     "T1518.001",
+    "T1560.001",
     "T1484.001",
-    "T1070.001"
+    "T1133",
+    "T1562",
+    "T1560",
+    "T1059",
+    "T1518",
+    "T1562.001",
+    "T1003",
+    "T1070.001",
+    "T1486",
+    "T1190",
+    "T1070",
+    "T1048",
+    "T1484"
   ],
   "advisory": "aa23-352a",
   "title": "#StopRansomware: Play Ransomware | CISA",
   "source": "cybersecurity-advisories",
-  "id": "dd1e2d0c114cdd7922c4e39cfa5c448ed11fd70d821bde6708eaca88ded3842e"
+  "id": "5459c942588920d8f70a9f817c86a24afa6c8c9431529f0178620594d407fcd7"
 }

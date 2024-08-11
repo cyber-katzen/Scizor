@@ -1,26 +1,45 @@
 {
   "markdown": "\n\n\n\n\nActions to take today to harden your internal environment to mitigate follow-on activity after initial access.\n\n\n\n\nUse phishing-resistant multi-factor authentication (MFA) for all administrative access.\nVerify the implementation of appropriate hardening measures, and change, remove, or deactivate all default credentials.\nImplement network segregation controls.\n\n\n",
   "cves": [
-    "CVE-2019-0708",
-    "CVE-2017-0144"
+    "CVE-2017-0144",
+    "CVE-2019-0708"
   ],
   "techniques": [
-    "T1558.003",
-    "T1595.001",
+    "T1550",
     "T1021.002",
-    "T1003.002",
-    "T1078.002",
-    "T1550.002",
-    "T1557.001",
-    "T1110.002",
-    "T1110.003",
+    "T1529",
+    "T1046",
     "T1078.001",
     "T1003.006",
+    "T1078",
+    "T1649",
+    "T1040",
+    "T1080",
+    "T1210",
+    "T1021",
+    "T1110",
+    "T1187",
+    "T1558.003",
+    "T1110.003",
+    "T1133",
+    "T1059",
+    "T1550.002",
+    "T1003",
+    "T1003.002",
+    "T1039",
+    "T1087",
+    "T1078.002",
+    "T1595",
+    "T1110.002",
+    "T1557",
+    "T1557.001",
+    "T1087.002",
+    "T1558",
     "T1059.003",
-    "T1087.002"
+    "T1595.001"
   ],
   "advisory": "aa23-349a",
   "title": "Enhancing Cyber Resilience: Insights from the CISA Healthcare and Public Health Sector Risk and Vulnerability Assessment | CISA",
   "source": "cybersecurity-advisories",
-  "id": "351d4c398c05eb68aaade5e87e58c24e1880096c15267f748e824ab9201af95d"
+  "id": "685f89e544663a321d9630b76f1502292d566d61d3bdaeda3321a0f6b273fb7f"
 }

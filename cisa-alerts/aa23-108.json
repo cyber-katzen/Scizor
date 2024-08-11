@@ -4,10 +4,13 @@
     "CVE-2017-6742"
   ],
   "techniques": [
+    "T1190",
+    "T1078",
+    "T1590",
     "T1078.001"
   ],
   "advisory": "aa23-108",
   "title": "APT28 Exploits Known Vulnerability to Carry Out Reconnaissance and Deploy Malware on Cisco Routers | CISA",
   "source": "cybersecurity-advisories",
-  "id": "7512a401afcecf707d11f59915d59532cae3a3ac67a5e03ed8d9ffd331d82b78"
+  "id": "c118dae2e21ff918a3d7a77adf8fc4b766e974f1cfd3159e575c5a8196f41ea9"
 }

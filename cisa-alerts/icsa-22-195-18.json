@@ -3,9 +3,11 @@
   "cves": [
     "CVE-2022-34663"
   ],
-  "techniques": [],
+  "techniques": [
+    "T2228"
+  ],
   "advisory": "icsa-22-195-18",
   "title": "Siemens RUGGEDCOM ROS (Update A) | CISA",
   "source": "ics-advisories",
-  "id": "2b36eee0e4a3b7ff448dd01c4acee38ed22152eeba5a792ba9316e80ebd34d78"
+  "id": "90a318aa5dc1198fe377560cec57199054205bab84c2cc5f31ce799a9702fa02"
 }

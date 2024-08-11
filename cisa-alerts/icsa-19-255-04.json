@@ -3,9 +3,11 @@
   "cves": [
     "CVE-2019-13542"
   ],
-  "techniques": [],
+  "techniques": [
+    "T2000"
+  ],
   "advisory": "icsa-19-255-04",
   "title": "3S-Smart Software Solutions GmbH CODESYS Control V3 OPC UA Server | CISA",
   "source": "ics-advisories",
-  "id": "b12c7dc38f79c1f5adddb10a25ad163230f7ce78d12bc015916e2778815ce246"
+  "id": "2773e52536298b50b0c81e7e8b1743d95099ea2436d10cf1e06409fc7d835cb4"
 }

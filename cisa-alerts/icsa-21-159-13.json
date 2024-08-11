@@ -3,9 +3,11 @@
   "cves": [
     "CVE-2021-31340"
   ],
-  "techniques": [],
+  "techniques": [
+    "T2811"
+  ],
   "advisory": "icsa-21-159-13",
   "title": "Siemens SIMATIC RFID (Update B) | CISA",
   "source": "ics-advisories",
-  "id": "1bbf5b672f19b2c785bf72a02c2a16f9a2da42de6930d8f0f198c7ae7ba44451"
+  "id": "04148883c2f979c31acb3232623b4e5ee992e82c23a7b3d699bfd4ebaf054dd2"
 }

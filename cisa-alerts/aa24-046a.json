@@ -2,17 +2,28 @@
   "markdown": "\n\n\n\n\nActions to take today to mitigate malicious cyber activity:\n\n\n\n\nContinuously remove and disable accounts and groups from the enterprise that are no longer needed, especially privileged accounts.\nEnable and enforce multifactor authentication with strong passwords.\nStore credentials in a secure manner, such as with a credential manager, vault, or other privilege account management solution.\n\n\n",
   "cves": [],
   "techniques": [
-    "T1589.001",
-    "T1078.004",
-    "T1021.002",
-    "T1078.002",
-    "T1213.002",
     "T1021.007",
+    "T1021.002",
+    "T1046",
+    "T1589",
+    "T1078",
+    "T1552",
+    "T1021",
+    "T1078.004",
+    "T1482",
+    "T1589.001",
+    "T1133",
     "T1552.001",
-    "T1087.002"
+    "T1213.002",
+    "T1083",
+    "T1087",
+    "T1078.002",
+    "T1087.002",
+    "T1213",
+    "T1018"
   ],
   "advisory": "aa24-046a",
   "title": "Threat Actor Leverages Compromised Account of Former Employee to Access State Government Organization | CISA",
   "source": "cybersecurity-advisories",
-  "id": "c65cf9fc5aa1711a6a0224f7d2d9400dfd39a1151a1f2a6e6ea7feb459df87ee"
+  "id": "7ef6ef4279d9bd7edb3c8ae0b9cc3059cfb8caee1efbdaa91be97ab3fa23c557"
 }

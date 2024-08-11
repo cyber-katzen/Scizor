@@ -3,19 +3,19 @@
   "cves": [
     "CVE-2018-7497",
     "CVE-2018-7503",
-    "CVE-2018-10589",
-    "CVE-2018-8845",
+    "CVE-2018-10591",
+    "CVE-2018-7501",
+    "CVE-2018-7505",
     "CVE-2018-8841",
     "CVE-2018-7495",
-    "CVE-2018-7501",
-    "CVE-2018-7499",
+    "CVE-2018-8845",
+    "CVE-2018-10589",
     "CVE-2018-10590",
-    "CVE-2018-7505",
-    "CVE-2018-10591"
+    "CVE-2018-7499"
   ],
   "techniques": [],
   "advisory": "icsa-18-135-01",
   "title": "Advantech WebAccess | CISA",
   "source": "ics-advisories",
-  "id": "dd338ec22a3740c30421c3f5ca54b9d1cb377de0a0cb6e3120bfe7c3aca4f798"
+  "id": "39cb7018aa90a3c1369f79060975f32e1e2c4f27a4c69ddb1b380a5318626399"
 }

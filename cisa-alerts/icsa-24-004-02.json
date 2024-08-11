@@ -5,9 +5,11 @@
     "CVE-2022-4450",
     "CVE-2022-4304"
   ],
-  "techniques": [],
+  "techniques": [
+    "T2000"
+  ],
   "advisory": "icsa-24-004-02",
   "title": "Mitsubishi Electric Factory Automation Products | CISA",
   "source": "ics-advisories",
-  "id": "bebe9f859b3a7c07cef0ea78f744496e867d72e41cb1b1a3ebbae387c7647edc"
+  "id": "9cd646a9bbe4e20bcb51b60b48216a6c5a5a9182be233255fd686e66c2be48ae"
 }

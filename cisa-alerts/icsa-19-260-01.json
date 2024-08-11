@@ -3,12 +3,12 @@
   "cves": [
     "CVE-2019-13558",
     "CVE-2019-13550",
-    "CVE-2019-13552",
-    "CVE-2019-13556"
+    "CVE-2019-13556",
+    "CVE-2019-13552"
   ],
   "techniques": [],
   "advisory": "icsa-19-260-01",
   "title": "Advantech WebAccess | CISA",
   "source": "ics-advisories",
-  "id": "576870631c702c59a2a748e8fc373d341697d9554d7ec23633fb843828458698"
+  "id": "805913b27eb2a089d5912ab4395560b60d52da85f9163ae886cc6fd2527766bf"
 }

@@ -3,9 +3,11 @@
   "cves": [
     "CVE-2017-7905"
   ],
-  "techniques": [],
+  "techniques": [
+    "T1000"
+  ],
   "advisory": "icsa-17-117-01b",
   "title": "GE Multilin SR, UR, and URplus Protective Relays (Update B) | CISA",
   "source": "ics-advisories",
-  "id": "4e992d1c6de5977a45e4075fd9d630350fdbc2f4c5b8c6c6d664324bec8bf2d8"
+  "id": "b667cf44c04868a3edc63760829edc9aa9691f26d0770cfd3007ef097363acbf"
 }

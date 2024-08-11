@@ -4,9 +4,12 @@
     "CVE-2023-4088",
     "CVE-2020-14496"
   ],
-  "techniques": [],
+  "techniques": [
+    "T1000",
+    "T2000"
+  ],
   "advisory": "icsa-23-269-03",
   "title": "Mitsubishi Electric FA Engineering Software (Update A) | CISA",
   "source": "ics-advisories",
-  "id": "f50588efa2e294b761d79d04ffb240c60012235b59217158fef8b8fd4db94e13"
+  "id": "81dabe589a264d6843eedb292b15743fa7c648608f8dd715082f2d218a725276"
 }

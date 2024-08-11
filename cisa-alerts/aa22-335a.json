@@ -5,15 +5,28 @@
     "CVE-2020-1472"
   ],
   "techniques": [
-    "T1558.003",
+    "T1566",
+    "T1584",
+    "T1078",
     "T1059.001",
-    "T1562.001",
-    "T1584.001",
+    "T1563.002",
+    "T1558.003",
     "T1003.001",
-    "T1563.002"
+    "T1133",
+    "T1562",
+    "T1584.001",
+    "T1059",
+    "T1563",
+    "T1562.001",
+    "T1072",
+    "T1003",
+    "T1090",
+    "T1068",
+    "T1190",
+    "T1558"
   ],
   "advisory": "aa22-335a",
   "title": "#StopRansomware: Cuba Ransomware | CISA",
   "source": "cybersecurity-advisories",
-  "id": "40d150de14170da7f8a0d2b45e1dea852df6f8eafa988dc93aa1567aae68cb5e"
+  "id": "f69fd4a3e5eb8fa20a74dd3ba619555c605c481e870a84526b8af20fc807ca86"
 }

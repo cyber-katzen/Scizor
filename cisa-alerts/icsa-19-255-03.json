@@ -3,9 +3,11 @@
   "cves": [
     "CVE-2019-9008"
   ],
-  "techniques": [],
+  "techniques": [
+    "T2000"
+  ],
   "advisory": "icsa-19-255-03",
   "title": "3S-Smart Software Solutions GmbH CODESYS Control V3 Online User Management | CISA",
   "source": "ics-advisories",
-  "id": "4c4fa5619c025eae4421b69a7fc7feb2ee7cde08c9f2b7049b17239cec98ab44"
+  "id": "e2df602288d2f2d61ef991680431de045f581c54afe2c4de4c118c993c69c044"
 }

@@ -3,12 +3,12 @@
   "cves": [
     "CVE-2019-3464",
     "CVE-2019-3463",
-    "CVE-2019-13543",
-    "CVE-2019-13539"
+    "CVE-2019-13539",
+    "CVE-2019-13543"
   ],
   "techniques": [],
   "advisory": "icsma-19-311-02",
   "title": "Medtronic Valleylab FT10 and FX8 | CISA",
   "source": "ics-medical-advisories",
-  "id": "45c8d5341b9b609ce920a3a909f18f51eac8b21e385b441fa646d6a28542aeab"
+  "id": "503e21e1a4f27e57a1b636eb93374f150d85464838ed8243c4168446fd6deff6"
 }

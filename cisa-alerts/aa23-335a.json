@@ -3,9 +3,11 @@
   "cves": [
     "CVE-2023-6448"
   ],
-  "techniques": [],
+  "techniques": [
+    "T1110"
+  ],
   "advisory": "aa23-335a",
   "title": "IRGC-Affiliated Cyber Actors Exploit PLCs in Multiple Sectors, Including U.S. Water and Wastewater Systems Facilities | CISA",
   "source": "cybersecurity-advisories",
-  "id": "22d5ba7874f614cc7ba4df3d8a589fd9fa07fb61ab9fb8f55fdb5b31c89d7ff4"
+  "id": "5b5de1ba9feace45d0733e2dcf5804c1151a3276617b748d1560a394d5fd95be"
 }

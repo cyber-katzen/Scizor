@@ -1,9 +1,15 @@
 {
   "markdown": "\n\n\n\n\nActions to take today to mitigate against the threat of ransomware:\n\n\n\n\nRoutinely take inventory of assets and data to identify authorized and unauthorized devices and software.\nPrioritize remediation of known exploited vulnerabilities.\nEnable and enforce multifactor authentication with strong passwords.\nClose unused ports and remove applications not deemed necessary for day-to-day operations.\n\n\n",
   "cves": [],
-  "techniques": [],
+  "techniques": [
+    "T1586",
+    "T1557",
+    "T1598",
+    "T1558",
+    "T1555"
+  ],
   "advisory": "aa23-353a",
   "title": "#StopRansomware: ALPHV Blackcat | CISA",
   "source": "cybersecurity-advisories",
-  "id": "504281056b9a257935d5ccdb327760d2c1837dc753d7f7c2ac4f258b767793f3"
+  "id": "82c1f5dab37f0ded20bfdea2daf926dc479842a02ccd9839dd3f8383c89b1d12"
 }

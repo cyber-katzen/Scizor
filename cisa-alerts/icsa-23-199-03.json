@@ -3,12 +3,12 @@
   "cves": [
     "CVE-2023-35763",
     "CVE-2023-33871",
-    "CVE-2023-35189",
-    "CVE-2023-38257"
+    "CVE-2023-38257",
+    "CVE-2023-35189"
   ],
   "techniques": [],
   "advisory": "icsa-23-199-03",
   "title": "Iagona ScrutisWeb | CISA",
   "source": "ics-advisories",
-  "id": "d96f5f6dbf04c0c88640cd4a309004e80e07e5e19360809b585fd8084ca25cbe"
+  "id": "a4b7ed1b245c067c77c980a86a7dde0cdf384c4978a53998a6be5955490d5fcf"
 }

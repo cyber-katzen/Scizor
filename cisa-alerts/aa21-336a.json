@@ -4,15 +4,27 @@
     "CVE-2021-44077"
   ],
   "techniques": [
-    "T1573.001",
-    "T1505.003",
-    "T1070.004",
+    "T1136",
+    "T1140",
+    "T1027",
+    "T1218",
+    "T1047",
+    "T1560",
+    "T1190",
+    "T1070",
+    "T1003.003",
     "T1560.001",
     "T1087.002",
-    "T1003.003"
+    "T1505",
+    "T1003",
+    "T1505.003",
+    "T1573",
+    "T1573.001",
+    "T1087",
+    "T1070.004"
   ],
   "advisory": "aa21-336a",
   "title": "APT Actors Exploiting CVE-2021-44077 in Zoho ManageEngine ServiceDesk Plus | CISA",
   "source": "cybersecurity-advisories",
-  "id": "0ae75877b9c7e3523d3200ebee3b32420bdee0c70022ec7109065ed6f2134739"
+  "id": "440d61f8bc524516433f31662d84de4bbd9f512840ff773c8bb90470de534d42"
 }

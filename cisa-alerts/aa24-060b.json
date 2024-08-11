@@ -1,18 +1,23 @@
 {
   "markdown": "\n\n\n\n\nActions to take today to mitigate cyber threats against Ivanti appliances:\n\n\n\n\nLimit outbound internet connections from SSL VPN appliances to restrict access to required services.\nKeep all operating systems and firmware up to date.\nLimit SSL VPN connections to unprivileged accounts.\n\n\n",
   "cves": [
-    "CVE-2023-46805",
     "CVE-2024-22024",
-    "CVE-2024-21887",
+    "CVE-2023-46805",
     "CVE-2024-21893",
-    "CVE-2024-21888"
+    "CVE-2024-21888",
+    "CVE-2024-21887"
   ],
   "techniques": [
-    "T1059.001",
-    "T1505.003"
+    "T1203",
+    "T1059",
+    "T1190",
+    "T1078",
+    "T1505",
+    "T1505.003",
+    "T1059.001"
   ],
   "advisory": "aa24-060b",
   "title": "Threat Actors Exploit Multiple Vulnerabilities in Ivanti Connect Secure and Policy Secure Gateways | CISA",
   "source": "cybersecurity-advisories",
-  "id": "7b546c65189aeb2d67cca72bc8ec64c723d38d064ed38bfa892ccffdf07a3322"
+  "id": "d0cbb92ee1945069747ad587ee5c82e7df7df815f5b3ff9a63af92b613e718e4"
 }

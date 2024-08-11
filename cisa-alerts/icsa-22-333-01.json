@@ -3,9 +3,11 @@
   "cves": [
     "CVE-2022-40266"
   ],
-  "techniques": [],
+  "techniques": [
+    "T2000"
+  ],
   "advisory": "icsa-22-333-01",
   "title": "Mitsubishi Electric GOT2000 | CISA",
   "source": "ics-advisories",
-  "id": "ecad6af1a26d370ec5d03026ffb8df851afe1617645b90ce5ae704a38567055c"
+  "id": "862fc559650b254a774c5b1b4dcc7b19065030ef18b9ed323d54fb1dfc5259dd"
 }

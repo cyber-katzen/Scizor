@@ -2,12 +2,18 @@
   "markdown": "\n\n\n\n\nActions to take today to mitigate cyber threats from AvosLocker ransomware:\n\n\n\n\nSecuring remote access tools\nRestricting RDP and other remote desktop services\nSecuring PowerShell and/or restrict usage\nUpdate software to latest version and apply patching updates regularly\n\n\n",
   "cves": [],
   "techniques": [
+    "T1572",
+    "T1047",
+    "T1059",
+    "T1505",
     "T1059.001",
+    "T1505.003",
     "T1059.003",
-    "T1505.003"
+    "T1133",
+    "T1555"
   ],
   "advisory": "aa23-284a",
   "title": "#StopRansomware: AvosLocker Ransomware (Update) | CISA",
   "source": "cybersecurity-advisories",
-  "id": "12179ebf5c831f430c8a67eb5c42bb87a28d987655757afe5639c03c47cdd86f"
+  "id": "046352ad781274bed06c0c12fac0cc3ceff44a4ddf8345b550eff2293322ba06"
 }

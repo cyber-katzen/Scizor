@@ -3,17 +3,17 @@
   "cves": [
     "CVE-2020-3211",
     "CVE-2020-3516",
-    "CVE-2020-3209",
-    "CVE-2020-3200",
     "CVE-2021-1385",
     "CVE-2020-3229",
-    "CVE-2020-3218",
+    "CVE-2020-3200",
     "CVE-2020-3219",
+    "CVE-2020-3209",
+    "CVE-2020-3218",
     "CVE-2021-1446"
   ],
   "techniques": [],
   "advisory": "icsa-22-300-03",
   "title": "Rockwell Automation Stratix Devices Containing Cisco IOS | CISA",
   "source": "ics-advisories",
-  "id": "f9692201c0cb0efe442b5e6beda7f71b53fe0890e126c17bdd1d51b663ca74ee"
+  "id": "75ce8ba2b0966d3cc3c80604c6b0087e0b382faff2919e939b67085ffe0cc7b2"
 }

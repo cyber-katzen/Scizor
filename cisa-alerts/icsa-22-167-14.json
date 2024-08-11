@@ -3,9 +3,13 @@
   "cves": [
     "CVE-2022-0778"
   ],
-  "techniques": [],
+  "techniques": [
+    "T2801",
+    "T2811",
+    "T2002"
+  ],
   "advisory": "icsa-22-167-14",
   "title": "Siemens OpenSSL Affected Industrial Products (Update E) | CISA",
   "source": "ics-advisories",
-  "id": "adaf1c5df9fbbab3cfe94a046fe7cc70ff6957a5d02e60f78d5427bca404c400"
+  "id": "46eca2b695ffa36d02218641d177eeadb47c957587d3a4e4f3a41c952e33823e"
 }

@@ -4,12 +4,12 @@
     "CVE-2021-22655",
     "CVE-2021-22653",
     "CVE-2021-22637",
-    "CVE-2021-22641",
-    "CVE-2021-22639"
+    "CVE-2021-22639",
+    "CVE-2021-22641"
   ],
   "techniques": [],
   "advisory": "icsa-21-026-01",
   "title": "Fuji Electric Tellus Lite V-Simulator and V-Server Lite | CISA",
   "source": "ics-advisories",
-  "id": "653f53501e113de676f2ac0ca53549c2156de20185ab8488c956bcc7b15b8762"
+  "id": "40ff09335a099ff5edf7c5c092854be3847c317fb7baada8a570e71bbed405d9"
 }

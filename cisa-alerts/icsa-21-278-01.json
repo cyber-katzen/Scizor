@@ -1,14 +1,19 @@
 {
   "markdown": "\n1. EXECUTIVE SUMMARY\n\nCVSS v3 7.5\nATTENTION: Exploitable remotely/low attack complexity\nVendor: Mitsubishi Electric\nEquipment: GOT and Tension Controller\nVulnerabilities: Improper Handling of Exceptional Conditions, Improper Input Validation\n\n--------- Begin Update A Part 1 of 2 ---------\nMitsubishi Electric PSIRT has informed CISA that further research has shown the vulnerabilities listed in this advisory do not impact the devices listed below. Mitsubishi Electric will be removing its vulnerability notice from its website on April 7, 2022. Any questions regarding this new information should be directed to Mitsubishi Electric.\n--------- End Update A Part 1 of 2 ---------\n2. UPDATE INFORMATION\nThis updated advisory is a follow-up to the original advisory titled ICSA-21-278-01 Mitsubishi Electric GOT and Tension Controller that was published October 5, 2021, to the ICS webpage on www.cisa.gov/uscert.\n3. RISK EVALUATION\nSuccessful exploitation of these vulnerabilities could allow an attacker to cause a denial-of-service condition by sending specially crafted packets.\n4. TECHNICAL DETAILS\n4.1 AFFECTED PRODUCTS\nThe following Mitsubishi Electric products are affected:\n\nGOT2000 Series GT21 Model\n\nGT2107-WTBD: All versions\nGT2107-WTSD: All versions\nGT2104-RTBD: All versions\nGT2104-PMBD: All versions\nGT2103-PMBD: All versions\n\n\nGOT SIMPLE Series GS21 Model\n\nGS2110-WTBD: All versions\nGS2107-WTBD: All versions\nGS2110-WTBD-N: All versions\nGS2107-WTBD-N: All versions\n\n\nTension Controller\n\nLE7-40GU-L: All versions\n\n\n\n4.2 VULNERABILITY OVERVIEW\n4.2.1\u00a0\u00a0 \u00a0IMPROPER HANDLING OF EXCEPTIONAL CONDITIONS CWE-755\nAn attacker could send specially crafted packets cause to cause several different denial-of-service conditions due to the improper handling of exceptional conditions.\nCVE-2021-20602 has been assigned to this vulnerability. A CVSS v3 base score of 7.5 has been calculated; the CVSS vector string is (AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H).\n4.2.2\u00a0\u00a0 \u00a0IMPROPER INPUT VALIDATION CWE-20\nAn attacker could send specially crafted packets cause to cause several different denial-of-service conditions in the TCP-IP protocol stack of GOT and Tension Controller.\nCVE-2021-20603 has been assigned to this vulnerability. A CVSS v3 base score of 7.5 has been calculated; the CVSS vector string is (AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H).\n4.2.3\u00a0\u00a0 \u00a0IMPROPER INPUT VALIDATION CWE-20\nAn attacker could send specially crafted packets cause to cause several different denial-of-service conditions in the TCP-IP protocol stack of GOT and Tension Controller.\nCVE-2021-20604 has been assigned to this vulnerability. A CVSS v3 base score of 7.5 has been calculated; the CVSS vector string is (AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H).\n4.2.4\u00a0\u00a0 \u00a0IMPROPER INPUT VALIDATION CWE-20\nAn attacker could send specially crafted packets cause to cause several different denial-of-service conditions in the TCP-IP protocol stack of GOT and Tension Controller.\nCVE-2021-20605 has been assigned to this vulnerability. A CVSS v3 base score of 7.5 has been calculated; the CVSS vector string is (AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H).\n4.3 BACKGROUND\n\nCRITICAL INFRASTRUCTURE SECTORS: Critical Manufacturing\nCOUNTRIES/AREAS DEPLOYED: Worldwide\nCOMPANY HEADQUARTERS LOCATION: Japan\n\n4.4 RESEARCHER\nMitsubishi Electric reported these vulnerabilities to CISA.\n5. MITIGATIONS\n--------- Begin Update A Part 2 of 2 ---------\nMitsubishi Electric PSIRT has informed CISA that further research has shown the vulnerabilities listed in this advisory do not impact the devices listed below and no mitigation access is required. Mitsubishi Electric will be removing its vulnerability notice from its website on April 7, 2022. Any questions regarding this new information should be directed to Mitsubishi Electric support.\n--------- End Update A Part 2 of 2 ---------\n",
   "cves": [
-    "CVE-2021-20603",
-    "CVE-2021-20604",
     "CVE-2021-20602",
-    "CVE-2021-20605"
+    "CVE-2021-20605",
+    "CVE-2021-20603",
+    "CVE-2021-20604"
   ],
-  "techniques": [],
+  "techniques": [
+    "T2000",
+    "T2103",
+    "T2107",
+    "T2104"
+  ],
   "advisory": "icsa-21-278-01",
   "title": "Mitsubishi Electric GOT and Tension Controller (Update A) | CISA",
   "source": "ics-advisories",
-  "id": "1e877ce86171db816c759cd47fbd7bcd6ec8e3147d84c6d8ccddcab7dfe308c1"
+  "id": "86e057ee75177073c6867d84b4fdb96af5667d861773eb48f888604180558d11"
 }

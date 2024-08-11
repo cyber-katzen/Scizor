@@ -3,14 +3,14 @@
   "cves": [
     "CVE-2021-22642",
     "CVE-2021-22646",
-    "CVE-2021-22648",
+    "CVE-2021-22640",
     "CVE-2021-22650",
     "CVE-2021-22644",
-    "CVE-2021-22640"
+    "CVE-2021-22648"
   ],
   "techniques": [],
   "advisory": "icsa-21-054-04",
   "title": "Ovarro TBox (Update A) | CISA",
   "source": "ics-advisories",
-  "id": "5379f26c1e5d8ce82d06093927e401011751cfd66dafb5442cd1dbca0c50df64"
+  "id": "202aeec7254914133654bdf33048dfc456887af2ddc98dcbeda5485c27734a00"
 }

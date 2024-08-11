@@ -3,9 +3,11 @@
   "cves": [
     "CVE-2019-9009"
   ],
-  "techniques": [],
+  "techniques": [
+    "T2000"
+  ],
   "advisory": "icsa-19-255-05",
   "title": "3S-Smart Software Solutions GmbH CODESYS V3 Products Containing a CODESYS Communication Server | CISA",
   "source": "ics-advisories",
-  "id": "be035d3de93ba116282413d0b00a84a517170516ad9595961c736e2a15f7ad31"
+  "id": "ef7b9f7ec5fab00227857f69778b2c62b34b7445c757fca7ab399350c4ae8491"
 }

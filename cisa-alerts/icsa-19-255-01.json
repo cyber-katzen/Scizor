@@ -4,9 +4,11 @@
     "CVE-2019-13548",
     "CVE-2019-13532"
   ],
-  "techniques": [],
+  "techniques": [
+    "T2000"
+  ],
   "advisory": "icsa-19-255-01",
   "title": "3S-Smart Software Solutions GmbH CODESYS V3 Web Server | CISA",
   "source": "ics-advisories",
-  "id": "33aa08c6d9d3c6950e73a479c43f22cb00e628d6f7a33646575dffde83eeff2c"
+  "id": "3f456b80c9e3331e081ebbb85584ab6e3231dd786bdac992b472e77e682d9a5f"
 }

@@ -3,9 +3,11 @@
   "cves": [
     "CVE-2024-3596"
   ],
-  "techniques": [],
+  "techniques": [
+    "T2228"
+  ],
   "advisory": "icsa-24-193-05",
   "title": "Siemens SCALANCE, RUGGEDCOM, SIPLUS, and SINEC | CISA",
   "source": "ics-advisories",
-  "id": "8d5a0ad123cca06f9061ea91dfd1138218479fbe49330b9faca39cf2b125a7da"
+  "id": "6103a9b088d4caf6ef3e30453418386bc04fb845cf52de15a26af41d81059878"
 }

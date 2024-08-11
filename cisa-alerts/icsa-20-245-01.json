@@ -3,9 +3,12 @@
   "cves": [
     "CVE-2020-16226"
   ],
-  "techniques": [],
+  "techniques": [
+    "T1000",
+    "T2000"
+  ],
   "advisory": "icsa-20-245-01",
   "title": "Mitsubishi Electric Multiple Products (Update G) | CISA",
   "source": "ics-advisories",
-  "id": "8826c8792ff27681125a125fe2ffbac5e27408639ef6432e35eb8017347a783e"
+  "id": "6edde26bb68eca2de6533cc379680540874a37fb2fb096ac44053d85bbf5933e"
 }

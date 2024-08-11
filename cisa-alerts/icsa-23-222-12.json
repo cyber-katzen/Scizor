@@ -3,9 +3,11 @@
   "cves": [
     "CVE-2023-24845"
   ],
-  "techniques": [],
+  "techniques": [
+    "T2228"
+  ],
   "advisory": "icsa-23-222-12",
   "title": "Network Mirroring in Siemens RUGGEDCOM | CISA",
   "source": "ics-advisories",
-  "id": "b77b1350cfe70fd719d8f63fdbfba69898002fb16e8b781b1853087829fc8d48"
+  "id": "449672e4ba5131df5067f0c0fb43a29ef24d7c7598f50d5dd2475e375330e6ca"
 }

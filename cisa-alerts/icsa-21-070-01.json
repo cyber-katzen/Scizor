@@ -3,12 +3,12 @@
   "cves": [
     "CVE-2021-22710",
     "CVE-2021-22709",
-    "CVE-2021-22712",
-    "CVE-2021-22711"
+    "CVE-2021-22711",
+    "CVE-2021-22712"
   ],
   "techniques": [],
   "advisory": "icsa-21-070-01",
   "title": "Schneider Electric IGSS SCADA Software | CISA",
   "source": "ics-advisories",
-  "id": "0a74dc080f3ecbb62d71312b874e0b179841e4e633a8211436adcb3459db831e"
+  "id": "f43417446c8e8c7e5a3f836c4ca5843eafd0db38eadb10d846d80249e31fdf7d"
 }

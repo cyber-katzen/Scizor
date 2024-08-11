@@ -3,15 +3,15 @@
   "cves": [
     "CVE-2023-29128",
     "CVE-2023-29103",
+    "CVE-2023-29107",
+    "CVE-2023-28832",
     "CVE-2023-29106",
     "CVE-2023-29104",
-    "CVE-2023-28832",
-    "CVE-2023-29107",
     "CVE-2023-29105"
   ],
   "techniques": [],
   "advisory": "icsa-23-131-04",
   "title": "Siemens SIMATIC Cloud Connect 7 | CISA",
   "source": "ics-advisories",
-  "id": "2a3fb226ef305217b26bdf7cf60d6b82b45e4c57590bc930fa77dcab798efca2"
+  "id": "bfc635983314ced46fffc30c8de766f4756ec72f2c489ac4f09712f46980df25"
 }

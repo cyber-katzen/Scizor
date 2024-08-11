@@ -1,12 +1,12 @@
 {
   "markdown": "\n\nRevisions\n\nMay 12, 2020: Initial Version\n",
   "cves": [
-    "CVE-2022-42475",
-    "CVE-2022-47966"
+    "CVE-2022-47966",
+    "CVE-2022-42475"
   ],
   "techniques": [],
   "advisory": "ar20-133f",
   "title": "MAR-10238137-1.v2 | CISA",
   "source": "analysis-reports",
-  "id": "c28a629364b3a170591d6934db8698fd959bae3e75b746d3785286dded48aad2"
+  "id": "68f38fa8e8e7371fe699ffe715c55230b2d6bc48ce69b7319121c741c8f44714"
 }

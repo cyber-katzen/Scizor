@@ -3,9 +3,11 @@
   "cves": [
     "CVE-2021-20601"
   ],
-  "techniques": [],
+  "techniques": [
+    "T2000"
+  ],
   "advisory": "icsa-21-320-02",
   "title": "Mitsubishi Electric GOT products | CISA",
   "source": "ics-advisories",
-  "id": "859bbce5b71f0dd8ddfaa187b56707f14b3e4709c37e9adc3abb53365a445c73"
+  "id": "b915927e699083c816f293b49fcd0bf65a7febcf73bad93e1235b8ec7762d654"
 }

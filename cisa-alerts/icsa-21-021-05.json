@@ -3,9 +3,11 @@
   "cves": [
     "CVE-2020-12525"
   ],
-  "techniques": [],
+  "techniques": [
+    "T2000"
+  ],
   "advisory": "icsa-21-021-05",
   "title": "WAGO M&M Software fdtCONTAINER (Update C) | CISA",
   "source": "ics-advisories",
-  "id": "410b5e383afa0e73b3796a8add8669f23991e8f8c13f6668133e8ff04d1d07da"
+  "id": "a1e3d7cfaf4df5142020d9d35719d86472d68058d50ca6608288c221b06d1aa6"
 }

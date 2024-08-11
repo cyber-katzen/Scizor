@@ -1,12 +1,14 @@
 {
   "markdown": "\n1. EXECUTIVE SUMMARY\n\nCVSS v3 5.3\nATTENTION: Exploitable remotely.\nVendor: Acoustic Technology, Inc. (ATI Systems)\nEquipment: ATI Emergency Mass Notification Systems\nVulnerabilities: Improper Authentication, Missing Encryption of Sensitive Data.\n\n2. RISK EVALUATION\nSuccessful exploitation of these vulnerabilities could trigger false alarms.\n3. TECHNICAL DETAILS\n3.1 AFFECTED PRODUCTS\nThe following ATI\u2019s Emergency Mass Notification Systems devices are affected:\n\nHPSS16\nHPSS32\nMHPSS, and\nALERT4000.\n\n3.2 VULNERABILITY OVERVIEW\n\n3.2.1 IMPROPER AUTHENTICATION CWE-287\nImproper authentication vulnerability caused by specially crafted malicious radio transmissions may allow an attacker to remotely trigger false alarms.\nCVE-2018-8862 has been assigned to this vulnerability. A CVSS v3 base score of 5.3 has been calculated; the CVSS vector string is (AV:A/AC:H/PR:N/UI:N/S:U/C:N/I:H/A:N).\n\n3.2.2 MISSING ENCRYPTION OF SENSITIVE DATA CWE-311\nMissing encryption of sensitive data vulnerability caused by specially crafted malicious radio transmissions may allow an attacker to remotely trigger false alarms.\nCVE-2018-8864 has been assigned to this vulnerability. A CVSS v3 base score of 5.3 has been calculated; the CVSS vector string is (AV:A/AC:H/PR:N/UI:N/S:U/C:N/I:H/A:N).\n3.3 BACKGROUND\n\nCritical Infrastructure Sectors: Commercial Facilities, Defense Industrial Base, Emergency Services, Government Facilities, Nuclear Reactors, Materials, and Waste\nCountries/Areas Deployed: Worldwide\nCompany Headquarters Location: Massachusetts\n\n3.4 RESEARCHER\nBalint Seeber of Bastille reported these vulnerabilities to NCCIC.\n4. MITIGATIONS\nATI has created a patch which adds additional security features to the command packets sent over the radio. ATI is testing this patch, and it will be available upon request. Many systems are engineered to meet specific user needs and users need to make sure any upgrades are appropriate for their systems.\nATI recommends that, where feasible, simple voice radios be replaced with digital P-25 (APCO) radios, which provide highly secure encrypted links.\nNCCIC reminds organizations to perform proper impact analysis and risk assessment prior to deploying defensive measures.\nNCCIC also provides a section for control systems security recommended practices on the ICS-CERT web page. Several recommended practices are available for reading and download, including Improving Industrial Control Systems Cybersecurity with Defense-in-Depth Strategies.\nAdditional mitigation guidance and recommended practices are publicly available in the ICS\u2011CERT Technical Information Paper, ICS-TIP-12-146-01B--Targeted Cyber Intrusion Detection and Mitigation Strategies, that is available for download from the ICS-CERT website.\nOrganizations observing any suspected malicious activity should follow their established internal procedures and report their findings to NCCIC for tracking and correlation against other incidents.\nNo known public exploits specifically target these vulnerabilities. High skill level is needed to exploit.\n",
   "cves": [
-    "CVE-2018-8864",
-    "CVE-2018-8862"
+    "CVE-2018-8862",
+    "CVE-2018-8864"
   ],
-  "techniques": [],
+  "techniques": [
+    "T4000"
+  ],
   "advisory": "icsa-18-100-01",
   "title": "ATI Systems Emergency Mass Notification Systems | CISA",
   "source": "ics-advisories",
-  "id": "7b2addbd8c62f59de4840039ba3ade9578098f38ef7d213f3e0e79188c285e1a"
+  "id": "d7c0d582bd6351d55429aab2365f80d4d0f500ca565f9f5079e9aad8116ff3cb"
 }

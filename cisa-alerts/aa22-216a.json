@@ -3,9 +3,11 @@
   "cves": [
     "CVE-2021-40444"
   ],
-  "techniques": [],
+  "techniques": [
+    "T1020"
+  ],
   "advisory": "aa22-216a",
   "title": "2021 Top Malware Strains | CISA",
   "source": "cybersecurity-advisories",
-  "id": "4c5035a8a7a2cd51d76ce7e071bbd3743064b220a8c6d8c01ae8c69a343b085c"
+  "id": "784e87f0f25c0a591e6b834fdbeaf217b9e54990ef3888ea2e7bfcfc98a9d995"
 }

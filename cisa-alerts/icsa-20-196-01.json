@@ -4,13 +4,13 @@
     "CVE-2020-14501",
     "CVE-2020-14505",
     "CVE-2020-14497",
-    "CVE-2020-14499",
     "CVE-2020-14507",
+    "CVE-2020-14499",
     "CVE-2020-14503"
   ],
   "techniques": [],
   "advisory": "icsa-20-196-01",
   "title": "Advantech iView | CISA",
   "source": "ics-advisories",
-  "id": "dd594e474e0451c0fd1cf3e057c92732a01e012630a8d4e84cf5af813b7c50c9"
+  "id": "5888c86b991b9ebc7399a6f4f5a1341166f4c4e305c36c786665a0064a73b38f"
 }

@@ -1,17 +1,30 @@
 {
-  "markdown": "\n\n\n\n\nActions to take today to mitigate cyber threats from ransomware:\n\n\n\n\nPrioritize remediating\u00a0known exploited vulnerabilities.\nTrain users to recognize and report phishing attempts.\nEnable and enforce multifactor authentication.\n\n\n",
+  "markdown": "\n\n\n\n\nActions for Organizations to Take Today to Mitigate Cyber Threats Related to BlackSuit Ransomware Activity\n\n\n\n\nPrioritize remediating known exploited vulnerabilities.\nTrain users to recognize and report phishing attempts.\nEnable and enforce multifactor authentication.\n\n\n",
   "cves": [],
   "techniques": [
-    "T1566.002",
-    "T1562.001",
-    "T1078.002",
+    "T1566",
+    "T1071",
     "T1021.001",
+    "T1078",
+    "T1021",
+    "T1572",
     "T1566.001",
     "T1484.001",
-    "T1070.001"
+    "T1133",
+    "T1566.002",
+    "T1562",
+    "T1562.001",
+    "T1070.001",
+    "T1486",
+    "T1078.002",
+    "T1105",
+    "T1650",
+    "T1190",
+    "T1119",
+    "T1484"
   ],
   "advisory": "aa23-061a",
-  "title": "#StopRansomware: Royal Ransomware | CISA",
+  "title": "#StopRansomware: Blacksuit (Royal) Ransomware | CISA",
   "source": "cybersecurity-advisories",
-  "id": "fea4229e8d59970dd6df5a1f9b9babbdd3b6f69c41472953cc69bc8ff98356a0"
+  "id": "ab2e5b759519a50e4ea2c4c14909de03f8bbe5e530ee7418e6e7af3fe68efdd6"
 }

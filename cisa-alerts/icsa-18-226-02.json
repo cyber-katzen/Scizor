@@ -3,9 +3,11 @@
   "cves": [
     "CVE-2017-3737"
   ],
-  "techniques": [],
+  "techniques": [
+    "T2040"
+  ],
   "advisory": "icsa-18-226-02",
   "title": "Siemens OpenSSL Vulnerability in Industrial Products (Update E) | CISA",
   "source": "ics-advisories",
-  "id": "9c7d18180c263ff9632318bde82d361e8e12d5432f517ab25f5645967a525134"
+  "id": "ce22728aef10d0a2e7e02cae97824a26a3db93d684fb3e5153c1f6b917990a3e"
 }

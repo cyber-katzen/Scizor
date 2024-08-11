@@ -5,18 +5,32 @@
     "CVE-2021-27860"
   ],
   "techniques": [
-    "T1059.001",
+    "T1546",
+    "T1033",
+    "T1505",
     "T1505.003",
-    "T1069.002",
+    "T1016",
+    "T1059.001",
+    "T1090.002",
+    "T1110",
     "T1069.001",
     "T1110.003",
+    "T1059",
+    "T1069.002",
+    "T1003",
     "T1070.001",
-    "T1090.002",
+    "T1082",
+    "T1090",
+    "T1047",
+    "T1190",
+    "T1070",
+    "T1003.003",
     "T1059.003",
-    "T1003.003"
+    "T1069",
+    "T1555"
   ],
   "advisory": "aa23-144a",
   "title": "People's Republic of China State-Sponsored Cyber Actor Living off the Land to Evade Detection | CISA",
   "source": "cybersecurity-advisories",
-  "id": "51670eeafcfb989dd1204d8e19798d57e28107be1203c1d00981e684a6013e93"
+  "id": "cdddfe8fca6de57b23a63e66436bf6d885452c5cdec6f746e00d58a561337cd5"
 }

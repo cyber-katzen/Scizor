@@ -3,9 +3,11 @@
   "cves": [
     "CVE-2013-0662"
   ],
-  "techniques": [],
+  "techniques": [
+    "T2841"
+  ],
   "advisory": "icsa-14-086-01",
   "title": "Schneider Electric Serial Modbus Driver Buffer Overflow | CISA",
   "source": "ics-advisories",
-  "id": "917b66561ec3eeaed1cd4fc64f6a275c34d14d577723b6588eadae30602573ca"
+  "id": "a506c40a972f0c8fd52372cc365264b31717eedffc609abdcafb200075e89e86"
 }

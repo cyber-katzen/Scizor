@@ -3,9 +3,11 @@
   "cves": [
     "CVE-2021-37209"
   ],
-  "techniques": [],
+  "techniques": [
+    "T2228"
+  ],
   "advisory": "icsa-22-069-01",
   "title": "Siemens RUGGEDCOM Devices (Update D) | CISA",
   "source": "ics-advisories",
-  "id": "1413dfb78b99972bf5897b5a63a10924e45436ae4f4439fbeb57f1f489395d04"
+  "id": "ce628807e7e3145f2ac17b10a744bd71b8e13a845580a5b665e74071a0cc027c"
 }

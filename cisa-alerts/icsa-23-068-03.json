@@ -3,9 +3,11 @@
   "cves": [
     "CVE-2023-0228"
   ],
-  "techniques": [],
+  "techniques": [
+    "T0001"
+  ],
   "advisory": "icsa-23-068-03",
   "title": "ABB Ability Symphony Plus | CISA",
   "source": "ics-advisories",
-  "id": "3ecdbb419d5eb8f3c32fc5eb174205940ddeaef1ea4182635ecd7e8b936216f5"
+  "id": "8e6d2920a0eeff28f6f8aa18270977374a6246e69f7330aca35a2b496a4c1521"
 }

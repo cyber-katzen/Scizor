@@ -3,9 +3,11 @@
   "cves": [
     "CVE-2019-9013"
   ],
-  "techniques": [],
+  "techniques": [
+    "T2000"
+  ],
   "advisory": "icsa-19-213-04",
   "title": "3S-Smart Software Solutions GmbH CODESYS V3 (Update A) | CISA",
   "source": "ics-advisories",
-  "id": "770cb74fd682199741d9f97c0447b7af6b4ee04baeda7482ab545954c20799ae"
+  "id": "062f255c258dc69a53a9b8327f7d34fdc572880f79a28a0a794b7deb6a758c50"
 }

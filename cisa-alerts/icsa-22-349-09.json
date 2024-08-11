@@ -4,9 +4,11 @@
     "CVE-2022-3786",
     "CVE-2022-3602"
   ],
-  "techniques": [],
+  "techniques": [
+    "T2780"
+  ],
   "advisory": "icsa-22-349-09",
   "title": "Siemens Products affected by OpenSSL 3.0 | CISA",
   "source": "ics-advisories",
-  "id": "a103ed7b22fa49d6a99579b7048d9fc6fe1a81f868abb7d1a497cbe08e4ab2ac"
+  "id": "a45dbfe2fb2e36045a0fecc7c65574aaf8b987958214fb8afcfa10e1bb0e048f"
 }

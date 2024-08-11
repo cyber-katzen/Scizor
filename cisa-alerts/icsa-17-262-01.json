@@ -2,19 +2,19 @@
   "markdown": "\nCVSS v3 9.0\nATTENTION: Remotely exploitable/low skill level to exploit.\nVendor: PHOENIX CONTACT\nEquipment: mGuard Device Manager\nVulnerabilities: Improper Access Control vulnerabilities for Oracle Java SE\nAFFECTED PRODUCTS\nThe following versions of mGuard Device Manager, a device management software for mGuard devices, are affected:\n\nmGuard Device Manager 1.8.0 and older.\n\nIMPACT\nSuccessful exploitation of these vulnerabilities could allow unauthorized remote access, modification of data, and may allow remote and local users to gain elevated privileges.\nMITIGATION\nPHOENIX CONTACT recommends that all users of the affected product on Windows should update to at least Version 1.8.0.1. The update can be performed by simply executing the installer for Version 1.8.0.1 on a Windows system where the product is installed in Version 1.8.0. The installer is available for download on the product page, in section \u201cSoftware\u201d on the Downloads tab at the following location:\nhttps://www.phoenixcontact.com/online/portal/us?uri=pxc-oc-itemdetail:pid=2981974\nFor more information please refer to the document \u201cHow to upgrade mGuard device manager\u201d downloaded with the installer.\nPHOENIX CONTACT recommends that all users of the affected product on Linux should update Java to the latest version. When using the packet source delivered by PHOENIX CONTACT on Ubuntu, this is simply done by using the software updater of the operating system.\nNCCIC/ICS-CERT recommends that users take defensive measures to minimize the risk of exploitation of these vulnerabilities. Specifically, users should:\n\nMinimize network exposure for all control system devices and/or systems, and ensure that they are not accessible from the Internet.\nLocate control system networks and remote devices behind firewalls, and isolate them from the business network.\nWhen remote access is required, use secure methods, such as Virtual Private Networks (VPNs), recognizing that VPNs may have vulnerabilities and should be updated to the most current version available. Also recognize that VPN is only as secure as the connected devices.\n\nICS-CERT reminds organizations to perform proper impact analysis and risk assessment prior to deploying defensive measures.\nICS-CERT also provides a section for control systems security recommended practices on the ICS-CERT web page. Several recommended practices are available for reading and download, including Improving Industrial Control Systems Cybersecurity with Defense-in-Depth Strategies.\nAdditional mitigation guidance and recommended practices are publicly available in the ICS\u2011CERT Technical Information Paper, ICS-TIP-12-146-01B--Targeted Cyber Intrusion Detection and Mitigation Strategies, that is available for download from the ICS-CERT web site.\nOrganizations observing any suspected malicious activity should follow their established internal procedures and report their findings to ICS-CERT for tracking and correlation against other incidents.\nNo known public exploits specifically target these vulnerabilities.\nVULNERABILITY OVERVIEW\n\nIMPROPER ACCESS CONTROL CWE-284\n\nImproper Access Control vulnerabilities have been reported for Oracle Java SE, which is provided with PHOENIX CONTACT FL MGUARD DM. According to Oracle, the supported Java versions affected by these vulnerabilities are Java SE: 8u131, 7u141 and 6u151, Java SE Embedded: 8u131, and JRockit: R28.3.14. PHOENIX CONTACT provided FL MGUARD DM 1.8.0 for Windows with Java SE 8u131.\nCVE-2017-10102, CVE-2017-10116, CVE-2017-10078, CVE-2017-10115, CVE-2017-10118, CVE-2017-10176, CVE-2017-10198, CVE-2017-10135, CVE-2017-10053, CVE-2017-10108 have been assigned to these vulnerabilities. A CVSS v3 base score of 9.0 has been assigned; the CVSS vector string is (AV:N/AC:H/PR:N/UI:N/S:C/C:H/I:H/A:H).\nFor more information on these vulnerabilities, please refer to sources cited at these locations:\nPublished advisory of CERT@VDE:\nhttps://cert.vde.com/de-de/advisories/vde-2017-002\nOracle Critical Patch Update Advisory report:\nhttp://www.oracle.com/technetwork/security-advisory/cpujul2017-3236622.html\nRESEARCHER\nPHOENIX CONTACT reported these vulnerabilities to CERT@VDE. CERT@VDE coordinated these vulnerabilities with ICS-CERT.\nBACKGROUND\nCritical Infrastructure Sectors: Communications, Critical Manufacturing, Information Technology\nCountries/Areas Deployed: Worldwide\nCompany Headquarters Location: Germany\n",
   "cves": [
     "CVE-2017-10135",
-    "CVE-2017-10108",
     "CVE-2017-10176",
-    "CVE-2017-10102",
-    "CVE-2017-10115",
-    "CVE-2017-10078",
-    "CVE-2017-10116",
-    "CVE-2017-10118",
     "CVE-2017-10053",
+    "CVE-2017-10115",
+    "CVE-2017-10118",
+    "CVE-2017-10108",
+    "CVE-2017-10102",
+    "CVE-2017-10116",
+    "CVE-2017-10078",
     "CVE-2017-10198"
   ],
   "techniques": [],
   "advisory": "icsa-17-262-01",
   "title": "PHOENIX CONTACT mGuard Device Manager | CISA",
   "source": "ics-advisories",
-  "id": "26f81b140a6fc41a45ad23406115d70be76df73fac2c472e863e95d4a3d7753e"
+  "id": "3d37d6459f9c4f0352b693ecd645059e2eeab1f43c80d639761e435b62a47b17"
 }

@@ -3,9 +3,16 @@
   "cves": [
     "CVE-2019-11510"
   ],
-  "techniques": [],
+  "techniques": [
+    "T1078",
+    "T1003",
+    "T1021",
+    "T1133",
+    "T1090",
+    "T1486"
+  ],
   "advisory": "aa20-107a",
   "title": "Continued Threat Actor Exploitation Post Pulse Secure VPN Patching | CISA",
   "source": "cybersecurity-advisories",
-  "id": "caaa7e4bbcbb6116b74c5e179eed428e3002b5f1bba02049412f7798f0bb597d"
+  "id": "10e86d82b26d316540e649bcf0899b62b8ba55ad8faaffbba54345f1b1603a9e"
 }

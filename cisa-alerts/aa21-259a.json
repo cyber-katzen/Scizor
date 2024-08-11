@@ -4,14 +4,26 @@
     "CVE-2021-40539"
   ],
   "techniques": [
-    "T1573.001",
-    "T1505.003",
-    "T1070.004",
+    "T1136",
+    "T1140",
+    "T1027",
+    "T1218",
+    "T1047",
+    "T1560",
+    "T1190",
+    "T1070",
+    "T1003.003",
     "T1560.001",
-    "T1003.003"
+    "T1505",
+    "T1003",
+    "T1505.003",
+    "T1573",
+    "T1573.001",
+    "T1087",
+    "T1070.004"
   ],
   "advisory": "aa21-259a",
   "title": "APT Actors Exploiting Newly Identified Vulnerability in ManageEngine ADSelfService Plus | CISA",
   "source": "cybersecurity-advisories",
-  "id": "1a3f49c70bebea1024c558c7e03881a8e94add8d0340567ec03a74153f7b153f"
+  "id": "5e0af979f8ab0c4962fc60f449f58334bb78c79a36abc638dc02621b600e9fca"
 }

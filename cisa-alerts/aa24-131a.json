@@ -2,17 +2,26 @@
   "markdown": "\n\n\n\n\nActions for critical infrastructure organizations to take today to mitigate cyber threats from ransomware:\n\n\n\n\nInstall updates for operating systems, software, and firmware as soon as they are released.\nRequire phishing-resistant MFA for as many services as possible.\nTrain users to recognize and report phishing attempts.\n\n\n",
   "cves": [
     "CVE-2021-42278",
-    "CVE-2024-1709",
     "CVE-2021-42287",
     "CVE-2020-1472",
-    "CVE-2021-34527"
+    "CVE-2021-34527",
+    "CVE-2024-1709"
   ],
   "techniques": [
+    "T1566",
+    "T1486",
+    "T1490",
+    "T1059",
+    "T1190",
+    "T1562.001",
+    "T1078",
+    "T1036",
+    "T1562",
     "T1059.001",
-    "T1562.001"
+    "T1068"
   ],
   "advisory": "aa24-131a",
   "title": "#StopRansomware: Black Basta | CISA",
   "source": "cybersecurity-advisories",
-  "id": "3c72a8c3f0ca59b8a1c6f30021bb87de674583350ea15046cc1cc3874ff5d921"
+  "id": "32ffcdd7581d9dc6709026634774452f66be0cfa7bc11cb07d942aa85478a5f1"
 }

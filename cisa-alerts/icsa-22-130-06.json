@@ -4,9 +4,11 @@
     "CVE-2021-3712",
     "CVE-2021-23840"
   ],
-  "techniques": [],
+  "techniques": [
+    "T2000"
+  ],
   "advisory": "icsa-22-130-06",
   "title": "Mitsubishi Electric MELSOFT GT OPC UA | CISA",
   "source": "ics-advisories",
-  "id": "a1d6e1a861967aa52ac69618636e25b4d9b980de6351f645f8ead9dc0ea6906d"
+  "id": "9465bede9c18daab5d2444993fe843c5194814b22ad4815017da4933fcad3fd3"
 }

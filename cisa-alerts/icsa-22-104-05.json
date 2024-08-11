@@ -3,9 +3,13 @@
   "cves": [
     "CVE-2021-3449"
   ],
-  "techniques": [],
+  "techniques": [
+    "T2801",
+    "T2811",
+    "T2002"
+  ],
   "advisory": "icsa-22-104-05",
   "title": "Siemens OpenSSL Vulnerabilities in Industrial Products (Update B) | CISA",
   "source": "ics-advisories",
-  "id": "6a785b409a1089630ab360a89109e0269417ab7eea239b263426a8d73ccb9488"
+  "id": "71730be558ea4a48a6d9494a09adf1bdbc11c81d1ee1f68aca04a877bb26203c"
 }

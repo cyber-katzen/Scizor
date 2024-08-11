@@ -3,9 +3,12 @@
   "cves": [
     "CVE-2014-9191"
   ],
-  "techniques": [],
+  "techniques": [
+    "T9739",
+    "T4000"
+  ],
   "advisory": "icsa-15-008-01a",
   "title": "Emerson HART DTM Vulnerability (Update A) | CISA",
   "source": "ics-advisories",
-  "id": "a6b5ef796a521a89ee6d9431b4e919b73b29c5e180f656acded8a5674d2235f2"
+  "id": "fba4e3c2cf8ed63cf5bf4f2e93d6bf52ded08f22b456a39ea6214fb24f5f545a"
 }

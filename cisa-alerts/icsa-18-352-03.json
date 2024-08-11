@@ -3,9 +3,11 @@
   "cves": [
     "CVE-2018-10612"
   ],
-  "techniques": [],
+  "techniques": [
+    "T2000"
+  ],
   "advisory": "icsa-18-352-03",
   "title": "3S-Smart Software Solutions GmbH CODESYS Control V3 Products | CISA",
   "source": "ics-advisories",
-  "id": "cfc6d3675c6b917aca626c8faad441d46717c868ce511ae5d7edeb66a2e2bc02"
+  "id": "270adec973415dfc4996100c3e72721d7db75cb83ec3f11ca0d2e9b0a559402f"
 }

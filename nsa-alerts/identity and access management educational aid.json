@@ -1,9 +1,0 @@
-{
-  "markdown": "Identity and Access \nManagement (IAM)\n\n\nThe Criticality of IAM \nfor Resiliency\nAn alarming 84% of \norganizations surveyed had experienced identity related breaches in the past year.*\n*According to Identity Defined Security Alliance 2022 Trends in Securing Digital Identities \n\nThe Risk of Poor IAM The Colonial Pipeline Example\nWeak Password Password Re-Use No Multi-Factor \nAuthentication\n\n\nThe Cost of Poor IAM\n\nFines\n\nRansom\n\nRemediation costs\n\nReputational damage\n\nUncertainty of insurance coverage\n\n\nIAM and Its Benefits\nAbility to Secure Your \nDataImproved User \nExperienceIncreased Flexibility Lowered Updating \nRisk\n\nSteps to take to ensure business resilience\nStrong \nPasswordsMulti-Factor \nAuthentication\nTraining and \nAwareness\nLimit User \nAccesses to \nPrimary Functions\nSeparate Privilege \nAccountsLog and Monitor \nUsage\nUSERS\nSYS \nADMINS\n\n\n",
-  "cves": [],
-  "techniques": [],
-  "advisory": "cybersecurity-alerts",
-  "title": "identity and access management educational aid",
-  "source": "nsa",
-  "id": "075d10d158ce1fc5c149bc7539681b57a550e11200b7b8c0ee47bff5d04d3ccb"
-}

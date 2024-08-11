@@ -3,12 +3,12 @@
   "cves": [
     "CVE-2014-5401",
     "CVE-2014-5403",
-    "CVE-2014-5405",
-    "CVE-2014-5400"
+    "CVE-2014-5400",
+    "CVE-2014-5405"
   ],
   "techniques": [],
   "advisory": "icsa-15-090-03",
   "title": "Hospira MedNet Vulnerabilities | CISA",
   "source": "ics-advisories",
-  "id": "5b5a70d8ef699d6e83b4eb13945cca0b9bf10fa4d24949fa2be3dece5ad14c36"
+  "id": "b72ba1f906ab4edf30ecefa218d027538aaa77037dc14f0ac7c377c63d7af2b5"
 }

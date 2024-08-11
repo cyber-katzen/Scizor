@@ -3,9 +3,14 @@
   "cves": [
     "CVE-2020-5675"
   ],
-  "techniques": [],
+  "techniques": [
+    "T2000",
+    "T2103",
+    "T2107",
+    "T2104"
+  ],
   "advisory": "icsa-20-343-02",
   "title": "Mitsubishi Electric GOT and Tension Controller (Update B) | CISA",
   "source": "ics-advisories",
-  "id": "e7f6921c12718706446598b77a90f64ff42ec2ae53633f7afecfac499b554d63"
+  "id": "c292142cb68e1bbf702b2695226bdb887da3162861eeadc5b6959139af7eac6c"
 }

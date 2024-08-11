@@ -3,9 +3,11 @@
   "cves": [
     "CVE-2023-3373"
   ],
-  "techniques": [],
+  "techniques": [
+    "T2000"
+  ],
   "advisory": "icsa-23-215-01",
   "title": "\u200bMitsubishi Electric GOT2000 and GOT SIMPLE | CISA",
   "source": "ics-advisories",
-  "id": "0e00218e6cb9b8cfe4d25f56053f3e40b4beb4ed93114756d1776e92da37b657"
+  "id": "96d385d0592fa642c071b16cecd110cea8d9493916a36f610327b7c88eb0c9a0"
 }

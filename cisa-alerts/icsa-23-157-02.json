@@ -3,12 +3,12 @@
   "cves": [
     "CVE-2023-2061",
     "CVE-2023-2062",
-    "CVE-2023-2063",
-    "CVE-2023-2060"
+    "CVE-2023-2060",
+    "CVE-2023-2063"
   ],
   "techniques": [],
   "advisory": "icsa-23-157-02",
   "title": "Mitsubishi Electric MELSEC iQ-R Series/iQ-F Series (Update A) | CISA",
   "source": "ics-advisories",
-  "id": "1893d4fb6655efd2e131173ea268c95cb1bc75733dcfe63c9179ad2b1e1aec23"
+  "id": "97f84e94ce413026ba94ac3b876028816284de5cd2ba4eebc38b419ec71cd042"
 }

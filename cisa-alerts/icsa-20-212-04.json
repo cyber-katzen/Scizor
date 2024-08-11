@@ -3,9 +3,12 @@
   "cves": [
     "CVE-2020-14521"
   ],
-  "techniques": [],
+  "techniques": [
+    "T1000",
+    "T2000"
+  ],
   "advisory": "icsa-20-212-04",
   "title": "Mitsubishi Electric Factory Automation Engineering Products (Update K) | CISA",
   "source": "ics-advisories",
-  "id": "a8e0f7b9c1f22e8df820647b0434d5c004795d4ee6f52c10c1163a280247dc35"
+  "id": "48d897277c6742732b429ba370d6230c4d5d1209967b091e12bc8179d24f2b5a"
 }

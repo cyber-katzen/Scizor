@@ -4,14 +4,24 @@
     "CVE-2021-44228"
   ],
   "techniques": [
-    "T1589.001",
+    "T1567",
+    "T1566",
+    "T1567.002",
     "T1591.002",
-    "T1589.002",
     "T1566.001",
-    "T1567.002"
+    "T1190",
+    "T1219",
+    "T1048",
+    "T1589",
+    "T1589.002",
+    "T1078",
+    "T1589.001",
+    "T1591",
+    "T1083",
+    "T1133"
   ],
   "advisory": "aa22-152a",
   "title": "Karakurt Data Extortion Group | CISA",
   "source": "cybersecurity-advisories",
-  "id": "2a541bfb53f67c97ae331cb78a161d5ca16445dcc9f188578a4db01282545ab4"
+  "id": "b38f5d937a1e28654ded90d41e9e727354621b61cf850c3c083229ccf7cbe476"
 }

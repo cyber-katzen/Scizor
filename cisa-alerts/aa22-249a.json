@@ -6,11 +6,24 @@
   ],
   "techniques": [
     "T1547.001",
+    "T1574.002",
+    "T1486",
+    "T1047",
+    "T1190",
+    "T1547",
+    "T1078",
+    "T1036",
+    "T1080",
+    "T1055",
+    "T1497",
     "T1543.003",
-    "T1574.002"
+    "T1543",
+    "T1053",
+    "T1531",
+    "T1068"
   ],
   "advisory": "aa22-249a",
   "title": "#StopRansomware: Vice Society | CISA",
   "source": "cybersecurity-advisories",
-  "id": "b3e275b72f1cbbeb1bf5ee27c891972441fce216582461e8699bca53b05d730f"
+  "id": "b58dc2817456908b0e316251c662e330c640084c9cdbcc5f6ca6e43363324ba7"
 }

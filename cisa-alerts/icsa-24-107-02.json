@@ -3,9 +3,9 @@
   "cves": [
     "CVE-2024-3741",
     "CVE-2024-22179",
+    "CVE-2024-3742",
     "CVE-2024-22186",
     "CVE-2024-21846",
-    "CVE-2024-3742",
     "CVE-2024-1491",
     "CVE-2024-21872"
   ],
@@ -13,5 +13,5 @@
   "advisory": "icsa-24-107-02",
   "title": "Electrolink FM/DAB/TV Transmitter | CISA",
   "source": "ics-advisories",
-  "id": "c88309bf1ddb53ba6de3bd3a66421df42018abccb18d8e453a87ec1ce658ff26"
+  "id": "67254ccf8793a98b5c4784d5b49e47c85a7851f63b63c895299530780f2263f8"
 }

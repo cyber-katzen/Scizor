@@ -3,9 +3,11 @@
   "cves": [
     "CVE-2021-29998"
   ],
-  "techniques": [],
+  "techniques": [
+    "T2002"
+  ],
   "advisory": "icsa-21-194-12",
   "title": "Siemens VxWorks-based Industrial Products (Update C) | CISA",
   "source": "ics-advisories",
-  "id": "d5ad401bbdfc5b60036de13ced6f12a77e4e94e8d40eee1acd2de100bb6d734a"
+  "id": "ac5baa5626e330f730406a16d7d67a03a3b514fbc4ed9c26b81a867c22a38ca9"
 }
