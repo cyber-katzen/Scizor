@@ -1,0 +1,11 @@
+{
+  "id": "587c7ff4d0486c909856a3d3fa976074a0bead17b3b61b0333215eab0b707b96",
+  "markdown": "HomeCIS AdvisoriesUPDATED \u2013 MS-ISAC CYBERSECURITY ADVISORY - Multiple Vulnerabilities in Apple Products Could Allow for Arbitrary Code Execution PATCH: NOW - TLP: CLEARUPDATED \u2013 MS-ISAC CYBERSECURITY ADVISORY - Multiple Vulnerabilities in Apple Products Could Allow for Arbitrary Code Execution PATCH: NOW - TLP: CLEARMS-ISAC ADVISORY NUMBER:2023-100DATE(S) ISSUED:09/12/2023OVERVIEW:Additional systems were found to be affected by vulnerabilities, the most severe of which could allow for arbitrary code execution.SYSTEMS AFFECTED:macOS Big Sur prior to 11.7.10 macOS Monterey prior to 12.6.9 iOS prior to 15.7.9 iPadOS prior to 15.7.9RISK:Government:Large and medium government entitiesN/ASmall governmentN/ABusinesses:Large and medium business entitiesN/ASmall business entitiesN/AHome Users:N/AREFERENCES:Applehttps://support.apple.com/en-us/HT213913https://support.apple.com/en-us/HT213914https://support.apple.com/en-us/HT213915Get Email Updates When Cyber Threats Like This Arise Subscribe to Advisories Information HubAdvisories See All Advisories Blog Post08.09.2024Top 10 Malware Q2 2024Read MoreAdvisory08.07.20242024-088: Multiple Vulnerabilities in Google Android OS Could Allow for Privilege EscalationRead MoreAdvisory08.07.20242024-087: Multiple Vulnerabilities in Google Chrome Could Allow for Arbitrary Code ExecutionRead MoreBlog Post07.26.2024CrowdStrike Falcon Outage Exploited for Social EngineeringRead More",
+  "cves": [],
+  "techniques": [
+    "T2139"
+  ],
+  "title": "UPDATED \u2013 MS-ISAC CYBERSECURITY ADVISORY - Multiple Vulnerabilities in Apple Products Could Allow for Arbitrary Code Execution PATCH: NOW - TLP: CLEAR",
+  "source": "cis",
+  "advisory": "cybersecurity-alerts"
+}
